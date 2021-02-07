@@ -23,13 +23,15 @@
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 <!-- <img align="left" alt="Rider" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2017/04/dotnet-riderlogo.jpg" /> -->
+<img align="left" alt="Rider" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Rider" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="Angular" width="26px" src="https://redpanthers.co/wp-content/uploads/2017/12/angularjs.png" /> -->
 <!-- <img align="left" alt="Dotnet" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_dotnet.png?raw=true" /> -->
-<img align="left" alt="Express" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />
+<!-- <img align="left" alt="Express" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" /> -->
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
 <!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
