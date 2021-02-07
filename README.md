@@ -1,4 +1,5 @@
-### Hi there, I'm Himanshu - aka [senseihimanshu][website] 👋
+### Hi there, I'm Chandramohan 👋
+<!-- ### Hi there, I'm Himanshu - aka [senseihimanshu][website] 👋 -->
 
 ## I'm a Programmer, Developer, Student, and Teacher! :man_technologist:
 - 🔭 I’m currently working for a service based company!
