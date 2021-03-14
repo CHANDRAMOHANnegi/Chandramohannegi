@@ -8,7 +8,7 @@
 - 👯 I’m looking to work for the emerging startups
 - 🥅 2021 Goals: Contribute more to Open Source projects and CP
 - :smirk: Wants to learn Golang and want to be realy good at react-native 
-- ⚡ Fun fact: I love to solve puzzles and play chess
+- ⚡ Fun fact: I love to solve puzzles
 
 ### Connect with me:
 
