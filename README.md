@@ -2,13 +2,13 @@
 ### Hi there, I'm Chandramohan 👋
 <!-- ### Hi there, I'm Himanshu - aka [senseihimanshu][website] 👋 -->
 
-## I'm a Programmer, Developer, Student, and Teacher! :man_technologist:
+## I'm a Programmer, Developer, ! :man_technologist:
 - 🔭 I’m currently working for a service based company!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work for the emerging startups
-- 🥅 2021 Goals: Contribute more to Open Source projects and CP
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - :smirk: Wants to learn Golang and want to be realy good at react-native 
-- ⚡ Fun fact: I love to solve puzzles
+- ⚡ 
 
 ### Connect with me:
 
