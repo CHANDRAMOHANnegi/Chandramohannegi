@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work for the emerging startups
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- :smirk: Wants to learn Golang and want to be realy good at react-native 
+- :smirk: want to be realy good at react-native 
 - ⚡ 
 
 ### Connect with me:
