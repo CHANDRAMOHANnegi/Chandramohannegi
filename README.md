@@ -2,7 +2,6 @@
 ### Hi there, I'm Chandramohan 👋
 <!-- ### Hi there, I'm Himanshu - aka [senseihimanshu][website] 👋 -->
 
-## I'm a Programmer, Developer, ! :man_technologist:
  
 
 ### Connect with me:
