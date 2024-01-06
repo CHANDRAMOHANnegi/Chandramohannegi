@@ -1,7 +1,8 @@
 
 ### Hi there, I'm Chandramohan 👋
-<!-- ### Hi there, I'm Himanshu - aka [senseihimanshu][website] 👋 -->
+<!-- ### Hi there, I'm Chandramohan - aka [Chandramohan][website] 👋 -->
 
+[chandramohan_resume_2024.pdf](https://github.com/CHANDRAMOHANnegi/Chandramohannegi/files/13849776/chandramohan_resume_2024.pdf)
  
 
 ### Connect with me:
@@ -10,7 +11,6 @@
 [<img align="left" alt="cmsingh1721997 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cmsingh1721997 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="cmsingh1721997 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
- 
 
 ---
 
