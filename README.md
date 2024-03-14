@@ -2,7 +2,7 @@
 ### Hi there, I'm Chandramohan 👋
 <!-- ### Hi there, I'm Chandramohan - aka [Chandramohan][website] 👋 -->
 
-[chandramohan_resume_2024.pdf](https://github.com/CHANDRAMOHANnegi/Chandramohannegi/files/13849776/chandramohan_resume_2024.pdf)
+<!--  [chandramohan_resume_2024.pdf](https://github.com/CHANDRAMOHANnegi/Chandramohannegi/files/13849776/chandramohan_resume_2024.pdf) -->
  
 
 ### Connect with me:
@@ -19,4 +19,4 @@
 <!-- [website]: https://portfolio2020sensei.herokuapp.com/ -->
 [twitter]: https://twitter.com/cmsingh1721997
 <!-- [instagram]: https://instagram.com/senseihimanshu -->
-[linkedin]: https://www.linkedin.com/in/chandramohannegi/
+<!--  [linkedin]: https://www.linkedin.com/in/chandramohannegi/ -->
