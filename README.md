@@ -5,7 +5,7 @@
 
  [linkedin]: (https://www.linkedin.com/in/chandramohannegi/) 
 
-### Connect with me:[linkedin](https://www.linkedin.com/in/chandramohannegi)
+### Connect with me: [linkedin https://www.linkedin.com/in/chandramohannegi](https://www.linkedin.com/in/chandramohannegi)
 
 <img align="left" alt="CHANDRAMOHANnegi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CHANDRAMOHANnegi&show_icons=true&hide_border=true" />
 
